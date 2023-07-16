@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+    <object model="university.student" pk="2">
+        <field name="matnr" type="IntegerField">26120</field>
+        <field name="name" type="CharField">Fichte</field>
+        <field name="hoert" rel="ManyToManyRel" to="university.vorlesung"><object pk="2"></object><object pk="3"></object></field>
+    </object>
+    <object model="university.student" pk="3">
+        <field name="matnr" type="IntegerField">25403</field>
+        <field name="name" type="CharField">Jonas</field>
+        <field name="hoert" rel="ManyToManyRel" to="university.vorlesung"><object pk="3"></object></field>
+    </object>
+    <object model="university.student" pk="4">
+        <field name="matnr" type="IntegerField">27103</field>
+        <field name="name" type="CharField">Fauler</field>
+        <field name="hoert" rel="ManyToManyRel" to="university.vorlesung"></field>
+    </object>
+    <object model="university.professor" pk="1">
+        <field name="persnr" type="IntegerField">12</field>
+        <field name="name" type="CharField">Wirth</field>
+    </object>
+    <object model="university.professor" pk="2">
+        <field name="persnr" type="IntegerField">15</field>
+        <field name="name" type="CharField">Tesla</field>
+    </object>
+    <object model="university.professor" pk="3">
+        <field name="persnr" type="IntegerField">20</field>
+        <field name="name" type="CharField">Urlauber</field>
+    </object>
+    <object model="university.vorlesung" pk="1">
+        <field name="vorlnr" type="IntegerField">5022</field>
+        <field name="titel" type="CharField">IT</field>
+        <field name="dozent" rel="ManyToOneRel" to="university.professor">1</field>
+    </object>
+    <object model="university.vorlesung" pk="2">
+        <field name="vorlnr" type="IntegerField">5045</field>
+        <field name="titel" type="CharField">DB</field>
+        <field name="dozent" rel="ManyToOneRel" to="university.professor">1</field>
+    </object>
+    <object model="university.vorlesung" pk="3">
+        <field name="vorlnr" type="IntegerField">5001</field>
+        <field name="titel" type="CharField">ET</field>
+        <field name="dozent" rel="ManyToOneRel" to="university.professor">2</field>
+    </object>
+</django-objects>

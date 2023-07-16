@@ -1,0 +1,802 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-06-26T12:41:41.744Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Wirth [12]",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-06-26T12:41:52.219Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Tesla [15]",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-06-26T12:42:01.202Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Urlauber [20]",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-06-26T12:42:47.170Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Vorlesung object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-06-26T12:43:04.980Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Vorlesung object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-06-26T12:43:19.515Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Vorlesung object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-06-26T12:44:53.561Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Student object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-06-26T12:55:26.403Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Student object (1)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-06-26T12:55:59.073Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Student object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-06-26T12:56:16.837Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "Student object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-06-26T12:56:26.316Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "4",
+        "object_repr": "Student object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-06-26T13:09:51.256Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Fichte [26120]",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hoert\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-06-26T13:10:01.363Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "Jonas [25403]",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Hoert\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-07-03T14:10:45.204Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "Neo [9999] DB [5045] 2 [2023-07-29]",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-07-03T14:10:59.273Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "Fichte [26120] ET [5001] 3 [2023-07-20]",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add professor",
+        "content_type": 7,
+        "codename": "add_professor"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change professor",
+        "content_type": 7,
+        "codename": "change_professor"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete professor",
+        "content_type": 7,
+        "codename": "delete_professor"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view professor",
+        "content_type": 7,
+        "codename": "view_professor"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add vorlesung",
+        "content_type": 8,
+        "codename": "add_vorlesung"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change vorlesung",
+        "content_type": 8,
+        "codename": "change_vorlesung"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete vorlesung",
+        "content_type": 8,
+        "codename": "delete_vorlesung"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view vorlesung",
+        "content_type": 8,
+        "codename": "view_vorlesung"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add student",
+        "content_type": 9,
+        "codename": "add_student"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change student",
+        "content_type": 9,
+        "codename": "change_student"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete student",
+        "content_type": 9,
+        "codename": "delete_student"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view student",
+        "content_type": 9,
+        "codename": "view_student"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add Pruefung",
+        "content_type": 10,
+        "codename": "add_pruefung"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change Pruefung",
+        "content_type": 10,
+        "codename": "change_pruefung"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete Pruefung",
+        "content_type": 10,
+        "codename": "delete_pruefung"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view Pruefung",
+        "content_type": 10,
+        "codename": "view_pruefung"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$600000$uP9nm51RuV8iEa1x2TCvJh$VoX0b06Fdukc5G9Qye20noF99dRqU+8MUWXx63MzymQ=",
+        "last_login": "2023-07-03T13:54:30.826Z",
+        "is_superuser": true,
+        "username": "lamp",
+        "first_name": "",
+        "last_name": "",
+        "email": "test@test.de",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-06-26T11:44:36.085Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "university",
+        "model": "professor"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "university",
+        "model": "vorlesung"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "university",
+        "model": "student"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "university",
+        "model": "pruefung"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "0citlnpk7g1qbxfcck8hfc8dt7giu1lt",
+    "fields": {
+        "session_data": ".eJxVjMEOwiAQRP-FsyEsZYF49O43EGBXqRpISnsy_rs06UFvk3lv5i1C3NYSts5LmEmcBYjTb5difnLdAT1ivTeZW12XOcldkQft8tqIX5fD_TsosZexvk02GbIKEWM05CAbcJ4ZWE2AVhOATsgmjZANA3oEMt4NVXmtlPh8AcyWNsU:1qDlNM:kAx9mAC-JE7Wn6bwBUiIcFamvDtSX-oGHq6VldWLwfU",
+        "expire_date": "2023-07-10T12:31:24.721Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "mb8clgij7we49ihcupt38w4dvdwzik0y",
+    "fields": {
+        "session_data": ".eJxVjMEOwiAQRP-FsyEsZYF49O43EGBXqRpISnsy_rs06UFvk3lv5i1C3NYSts5LmEmcBYjTb5difnLdAT1ivTeZW12XOcldkQft8tqIX5fD_TsosZexvk02GbIKEWM05CAbcJ4ZWE2AVhOATsgmjZANA3oEMt4NVXmtlPh8AcyWNsU:1qGK0c:6G-QN6h27UAXunuuCRfFYd9X6W7bnDl13CRwNhJJQ-U",
+        "expire_date": "2023-07-17T13:54:30.871Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "nyehs1tj0e68e1c1zm7tfbsn5nvodswj",
+    "fields": {
+        "session_data": ".eJxVjMEOwiAQRP-FsyEsZYF49O43EGBXqRpISnsy_rs06UFvk3lv5i1C3NYSts5LmEmcBYjTb5difnLdAT1ivTeZW12XOcldkQft8tqIX5fD_TsosZexvk02GbIKEWM05CAbcJ4ZWE2AVhOATsgmjZANA3oEMt4NVXmtlPh8AcyWNsU:1qG4y2:qUhvB2VrSxPgjAsfvPOuhUF-gswFqtESr1USRnsWje0",
+        "expire_date": "2023-07-16T21:50:50.592Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "viuuh5gfz1dce8vljg87beq0hys7bj4y",
+    "fields": {
+        "session_data": ".eJxVjMEOwiAQRP-FsyEsZYF49O43EGBXqRpISnsy_rs06UFvk3lv5i1C3NYSts5LmEmcBYjTb5difnLdAT1ivTeZW12XOcldkQft8tqIX5fD_TsosZexvk02GbIKEWM05CAbcJ4ZWE2AVhOATsgmjZANA3oEMt4NVXmtlPh8AcyWNsU:1qDlem:U-hl4JRbRovmRD9SpMECF3EJJ5S8yesO2NvZ8-5eyG8",
+        "expire_date": "2023-07-10T12:49:24.623Z"
+    }
+},
+{
+    "model": "university.student",
+    "pk": 1,
+    "fields": {
+        "matnr": 9999,
+        "name": "Neo",
+        "hoert": [
+            2,
+            1
+        ]
+    }
+},
+{
+    "model": "university.student",
+    "pk": 2,
+    "fields": {
+        "matnr": 26120,
+        "name": "Fichte",
+        "hoert": [
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "university.student",
+    "pk": 3,
+    "fields": {
+        "matnr": 25403,
+        "name": "Jonas",
+        "hoert": [
+            3
+        ]
+    }
+},
+{
+    "model": "university.student",
+    "pk": 4,
+    "fields": {
+        "matnr": 27103,
+        "name": "Fauler",
+        "hoert": []
+    }
+},
+{
+    "model": "university.professor",
+    "pk": 1,
+    "fields": {
+        "persnr": 12,
+        "name": "Wirth"
+    }
+},
+{
+    "model": "university.professor",
+    "pk": 2,
+    "fields": {
+        "persnr": 15,
+        "name": "Tesla"
+    }
+},
+{
+    "model": "university.professor",
+    "pk": 3,
+    "fields": {
+        "persnr": 20,
+        "name": "Urlauber"
+    }
+},
+{
+    "model": "university.vorlesung",
+    "pk": 1,
+    "fields": {
+        "vorlnr": 5022,
+        "titel": "IT",
+        "dozent": 1
+    }
+},
+{
+    "model": "university.vorlesung",
+    "pk": 2,
+    "fields": {
+        "vorlnr": 5045,
+        "titel": "DB",
+        "dozent": 1
+    }
+},
+{
+    "model": "university.vorlesung",
+    "pk": 3,
+    "fields": {
+        "vorlnr": 5001,
+        "titel": "ET",
+        "dozent": 2
+    }
+},
+{
+    "model": "university.pruefung",
+    "pk": 1,
+    "fields": {
+        "student": 1,
+        "vorlesung": 2,
+        "datum": "2023-07-29",
+        "note": 2
+    }
+},
+{
+    "model": "university.pruefung",
+    "pk": 2,
+    "fields": {
+        "student": 2,
+        "vorlesung": 3,
+        "datum": "2023-07-20",
+        "note": 3
+    }
+}
+]

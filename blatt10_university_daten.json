@@ -1,0 +1,85 @@
+[
+{
+    "model": "university.student",
+    "pk": 2,
+    "fields": {
+        "matnr": 26120,
+        "name": "Fichte",
+        "hoert": [
+            2,
+            3
+        ]
+    }
+},
+{
+    "model": "university.student",
+    "pk": 3,
+    "fields": {
+        "matnr": 25403,
+        "name": "Jonas",
+        "hoert": [
+            3
+        ]
+    }
+},
+{
+    "model": "university.student",
+    "pk": 4,
+    "fields": {
+        "matnr": 27103,
+        "name": "Fauler",
+        "hoert": []
+    }
+},
+{
+    "model": "university.professor",
+    "pk": 1,
+    "fields": {
+        "persnr": 12,
+        "name": "Wirth"
+    }
+},
+{
+    "model": "university.professor",
+    "pk": 2,
+    "fields": {
+        "persnr": 15,
+        "name": "Tesla"
+    }
+},
+{
+    "model": "university.professor",
+    "pk": 3,
+    "fields": {
+        "persnr": 20,
+        "name": "Urlauber"
+    }
+},
+{
+    "model": "university.vorlesung",
+    "pk": 1,
+    "fields": {
+        "vorlnr": 5022,
+        "titel": "IT",
+        "dozent": 1
+    }
+},
+{
+    "model": "university.vorlesung",
+    "pk": 2,
+    "fields": {
+        "vorlnr": 5045,
+        "titel": "DB",
+        "dozent": 1
+    }
+},
+{
+    "model": "university.vorlesung",
+    "pk": 3,
+    "fields": {
+        "vorlnr": 5001,
+        "titel": "ET",
+        "dozent": 2
+    }
+}
+]

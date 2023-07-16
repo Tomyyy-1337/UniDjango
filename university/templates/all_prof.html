@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+ <body>
+  <table>
+	  <tr>
+		  <th>name</th>
+		  <th>persnr</th>
+	  </tr>
+	  {% for item in all_prof %}
+	  <tr>
+		  <td>{{ item.name }}</td>
+		  <td>{{ item.persnr }}</td>
+	  </tr>
+	  {% endfor %}
+	  </table>
+ </body>
+</html>

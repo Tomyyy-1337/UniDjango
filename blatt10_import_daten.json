@@ -1,0 +1,14 @@
+[
+{
+    "model": "university.student",
+    "pk": 1,
+    "fields": {
+        "matnr": 9999,
+        "name": "Neo",
+        "hoert": [
+            1,
+            2
+        ]
+    }
+}
+]
